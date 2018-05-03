@@ -1,30 +1,28 @@
-# This is a large heading
+# Hello World!
 
-## This is a smaller heading
+## The RNA world is awesome 
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+**RNA** forms the life on *earth*
+ 
+There are many forms of RNA
 
-- This is
-- an unordered
-- list
+- mRNA
+- miRNA
+- snoRNA
+- tRNA
+- rRNA
+- lncRNA
 
-1. This is
-2. an ordered
-3. list
+my favorite are
+1. snoRNA
+2. lncRNA
+3. miRNA
 
-Here is `some code` in the middle of a sentence.
+`r n a projects require bioinformatic skills`
 
 ```
-This is
-a block
-of code
+so learn your coding
 ```
+[a link](https://www.rnasociety.org)
+![This is an image.](http://learn.genetics.utah.edu/content/basics/rna/images/versatile_rna.jpg)
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
